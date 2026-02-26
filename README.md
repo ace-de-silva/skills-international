@@ -10,16 +10,6 @@ The system provides a secure login gateway and a full-featured student registrat
 
 ---
 
-## Screenshots
-
-| Login Form | Registration Form |
-|---|---|
-| ![Login](docs/login.png) | ![Registration](docs/registration.png) |
-
-> Add your own screenshots to a `docs/` folder and update the paths above.
-
----
-
 ## Features
 
 - **Secure Login** — Credential validation against hardcoded defaults and a database `Logins` table for multi-user support
